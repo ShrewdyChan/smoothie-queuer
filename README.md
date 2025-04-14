@@ -111,7 +111,7 @@ Built with Rust using the egui framework. For detailed architectural information
 
 1. Clone the repository
     ```bash
-    git clone https://github.com/username/smoothie-queuer.git
+    git clone https://github.com/ShrewdyChan/smoothie-queuer.git
     cd smoothie-queuer
     ```
 
