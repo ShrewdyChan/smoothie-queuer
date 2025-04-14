@@ -46,7 +46,7 @@ https://github.com/user-attachments/assets/6e396c9a-bc84-448a-884d-8954cf0932e1
 
 ### Getting Started
 
-1. Download the latest release version of `smoothie-queuer` here []()
+1. Download the latest release version of `smoothie-queuer` here [smoothie-queuer](https://github.com/ShrewdyChan/smoothie-queuer/releases)
 2. Run the Smoothie Queuer application
 3. On first launch, the application will:
   - Automatically detect your `smoothie-rs` installation
