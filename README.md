@@ -16,7 +16,7 @@ A graphical user interface for managing video processing tasks with the `smoothi
 
 ## Overview
 
-Smoothie Queuer provides a user-friendly interface for queuing and processing multiple video files using `smoothie-rs`. It streamlines the workflow by allowing drag-and-drop video management, recipe selection, and queue control, all within a visual interface.
+Smoothie Queuer provides a user-friendly GUI for queuing and processing multiple video files using `smoothie-rs`. It streamlines the workflow by allowing drag-and-drop video management, recipe selection, and queue control, all within a visual interface.
 
 https://github.com/user-attachments/assets/6e396c9a-bc84-448a-884d-8954cf0932e1
 
