@@ -101,12 +101,6 @@ Smoothie/
 
 Built with Rust using the egui framework. For detailed architectural information, see `docs/architecture.md`.
 
-## For Developers
-
-### Technology Stack
-
-Built with Rust using the egui framework. For detailed architectural information, see `docs/architecture.md`.
-
 ### Building from Source
 
 1. Clone the repository
